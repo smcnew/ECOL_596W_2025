@@ -1,6 +1,6 @@
 # ECOL_596W_2025
 
-## Practical and Reproducible Data Science for EEB  
+## Practical and Reproducible Data Science for EEB! 
 ### Fall 2025  
 
 #### Professor: Dr. Sabrina McNew (she/her/ella)  
